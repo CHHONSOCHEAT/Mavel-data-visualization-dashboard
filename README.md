@@ -4,7 +4,7 @@
 
 <img width="413" alt="image" src="https://github.com/cheat0072017/Mavel-data-visualization-dashboard/assets/164551467/86c8ae07-964e-49cc-b7bb-b8ed63fe0372">
 
-Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and intermediate in data visualization, business intelligence, and analytics using Power BI.
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and foundation in data visualization, business intelligence, and analytics using Power BI.
 
 # About Me
 
